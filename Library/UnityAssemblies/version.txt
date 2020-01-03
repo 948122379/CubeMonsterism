@@ -1,0 +1,10 @@
+5.3.5f1:2.8.0.0
+Android
+E:/Unity3D/Editor/Data/Managed/UnityEngine.dll
+E:/Unity3D/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/Unity3D/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/Unity3D/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+E:/Unity3D/Editor/Data/Managed/UnityEditor.dll
+E:/Unity3D/Editor/Data\Managed/Mono.Cecil.dll
+E:/Unity3D/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+E:/Unity3D/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
